@@ -1,0 +1,32 @@
+body{
+	background-image: url(https://cdn.wallpapersafari.com/66/19/THKDBW.jpg);
+}
+
+.logo-container{
+	text-align: center;
+	margin-top: 50px;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20% ;
+    padding-top: 20%;
+    padding-bottom: 35%;
+    display: flex; 
+    flex-wrap: wrap;
+    
+      
+}
+ a{
+	 text-decoration: none;
+	 color:wheat;
+	 font-size: 40px;
+	 padding: 3px 6px;
+	 border: 2px solid white;
+	 box-shadow: 2px 2px 2px 0px;
+	 border-radius: 10px;
+	 transition: 450ms;
+	 margin:10px;
+}
+a:hover{
+	filter:grayscale(1.2);
+    transform: scale(1.06);
+}
